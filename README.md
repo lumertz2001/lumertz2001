@@ -24,7 +24,6 @@
   <a href="https://www.linkedin.com/in/guilherme-alves-lumertz-0298b4206/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.twitch.tv/lumertz_2001" target="blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="mailto:lumertz2001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.behance.net/gldesignnn" target="blank"><img src="https://aleen42.github.io/badges/src/behance.svg"></a> 
+  <a href="https://www.behance.net/gldesignnn" target="blank"><img src="https://aleen42.github.io/badges/src/behance.svg"></a>
+  ![Snake animation](https://github.com/lumertz2001/lumertz2001/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-![Snake animation](http://github.com/lumertz2001/lumertz2001/blob/output/github-contribution-grid-snake.svg)
